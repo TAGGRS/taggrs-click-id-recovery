@@ -1,0 +1,5 @@
+homepage: "https://taggrs.io"
+documentation: "https://support.taggrs.io"
+versions:
+  - sha: fb7de46342c525d98e019aaefba7128faf96859d
+    changeNotes: Initial release.
